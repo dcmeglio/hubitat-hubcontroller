@@ -10,7 +10,8 @@
 	"drivers" : [
 		{
 			"id" : "59becba3-2c22-41e1-85b6-d46b5b0250fd",
-			"name": "Hubitat Hub Controller",
+            "name": "Hubitat Hub Controller",
+            "namespace": "dcm",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-hubcontroller/master/drivers/Hub_Controller.groovy",
 			"required": true
 		}
