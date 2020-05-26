@@ -1,0 +1,18 @@
+{
+	"packageName": "Hubitat Hub Controller",
+	"minimumHEVersion": "2.1.9",
+	"author": "Dominick Meglio",
+	"version": "1.0.0",
+	"dateReleased": "2020-05-26",
+	"releaseNotes": "Initial release",
+	"documentationLink": "https://github.com/dcmeglio/hubitat-hubcontroller/blob/master/README.md",
+	"communityLink": "",
+	"apps" : [
+		{
+			"id" : "59becba3-2c22-41e1-85b6-d46b5b0250fd",
+			"name": "Hubitat Hub Controller",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-hubcontroller/master/drivers/Hub_Controller.groovy",
+			"required": true
+		}
+	]
+}
