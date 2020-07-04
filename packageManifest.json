@@ -13,7 +13,8 @@
             "name": "Hubitat Hub Controller",
             "namespace": "dcm",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-hubcontroller/master/drivers/Hub_Controller.groovy",
-			"required": true
+			"required": true,
+			"primary": true
 		}
 	]
 }
