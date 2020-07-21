@@ -87,6 +87,6 @@ def callHubEndpoint(endpoint) {
 		]
 	) 
 	{
-		resp -> log.debug resp.status
+		resp -> 
 	}
 }

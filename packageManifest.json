@@ -2,9 +2,9 @@
 	"packageName": "Hubitat Hub Controller",
 	"minimumHEVersion": "2.1.9",
 	"author": "Dominick Meglio",
-	"version": "1.0.0",
-	"dateReleased": "2020-05-26",
-	"releaseNotes": "Initial release",
+	"version": "1.0.1",
+	"dateReleased": "2020-07-20",
+	"releaseNotes": "Removed an unnecessary debug message",
 	"documentationLink": "https://github.com/dcmeglio/hubitat-hubcontroller/blob/master/README.md",
 	"communityLink": "https://community.hubitat.com/t/release-hubitat-hub-controller/42074",
 	"drivers" : [
